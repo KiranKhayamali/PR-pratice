@@ -26,3 +26,4 @@ Fork this repository to your github. Insert your name and create a pull request 
 24. Joban Bajracharya
 25. Raj prajapati
 26. Pooja Timilsina
+27. Lukash Napit
