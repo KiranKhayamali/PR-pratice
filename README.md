@@ -18,3 +18,4 @@ Fork this repository to your github. Insert your name and create a pull request 
 16. dipson khadka
 17. Bhiarab Nath
 18. Samyam adhikari
+19. Sudip Bhattarai
