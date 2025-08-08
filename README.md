@@ -7,3 +7,4 @@ Fork this repository to your github. Insert your name and create a pull request 
 5. Rohan Kuchumani
 6. prajwal bashyal
 7. Lukash Napit
+8. onex shrestha
