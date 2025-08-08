@@ -6,3 +6,4 @@ Fork this repository to your github. Insert your name and create a pull request 
 4. Admin User
 5. Rohan Kuchumani
 6. prajwal bashyal
+7. Lukash Napit
